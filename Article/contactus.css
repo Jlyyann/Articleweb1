@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.background{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.t1{
+    position: absolute; 
+    top: 5%; 
+    left: 0%; 
+    width: 60%; 
+    text-align: center;
+    white-space: nowrap; 
+    color: White; 
+    font-weight: bold;
+    font-size: 7vw; 
+    font-family: 'Playfair Display', serif;
+    z-index: 1;
+}
